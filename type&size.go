@@ -1,5 +1,5 @@
 /* 
-  This is the program for find the type and size of the number.
+  This is the program for finding the type and size of the number.
   Created By: Mani Agarwal
   Email : agarwalmani22@gmail.com
 */
